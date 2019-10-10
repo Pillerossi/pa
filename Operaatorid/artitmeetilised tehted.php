@@ -70,7 +70,7 @@ echo
   <td rowspan="2">x % y</td>
   <td rowspan="2">Jääk</td>
   <td>'.$x.'%' .$y.'</td>
-  <td></td>
+  <td> =</td>
 </tr>
   
 </tbody>
